@@ -1,0 +1,50 @@
+<!--Code below is based on "Create a web app with ASP.NET Core MVC using Visual Studio for Mac", www.microsoft.com, https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/ -->
+
+@model MvcCamp.Models.Camp
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Camp</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DateRegistered)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DateRegistered)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.BeltGrade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BeltGrade)
+        </dd>
+		 <dt>
+            @Html.DisplayNameFor(model => model.ClubLocation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ClubLocation)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DepositPutDown)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DepositPutDown)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

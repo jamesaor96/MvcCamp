@@ -1,0 +1,33 @@
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.deps.json
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.runtimeconfig.json
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.runtimeconfig.dev.json
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.dll
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.pdb
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.csprojResolveAssemblyReference.cache
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.csproj.CoreCompileInputs.cache
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.AssemblyInfoInputs.cache
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.AssemblyInfo.cs
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.dll
+/Users/jamesandreworiordan/Projects/MvcCamp/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.pdb
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.deps.json
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.runtimeconfig.json
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.runtimeconfig.dev.json
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.dll
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.pdb
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.csprojResolveAssemblyReference.cache
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.csproj.CoreCompileInputs.cache
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.AssemblyInfoInputs.cache
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.AssemblyInfo.cs
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.dll
+/Users/jamesandreworiordan/Desktop/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.pdb
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.deps.json
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.runtimeconfig.json
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.runtimeconfig.dev.json
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.dll
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/bin/Debug/netcoreapp2.0/MvcCamp.pdb
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.csprojResolveAssemblyReference.cache
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.csproj.CoreCompileInputs.cache
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.AssemblyInfoInputs.cache
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.AssemblyInfo.cs
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.dll
+/Users/jamesandreworiordan/Projects/MvcCamp 21.35.28/MvcCamp/obj/Debug/netcoreapp2.0/MvcCamp.pdb

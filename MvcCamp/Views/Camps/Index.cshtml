@@ -1,0 +1,73 @@
+<!--Code below is based on "Create a web app with ASP.NET Core MVC using Visual Studio for Mac", www.microsoft.com, https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/ -->
+
+@model MvcCamp.Models.CampBeltGradeModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-controller="Camps" asp-action="Index" method="get">
+    <p>
+		<select asp-for="campBeltGrade" asp-items="Model.beltGrades">
+            <option value="">All</option>
+        </select>
+
+		
+        FullName: <input type="text" name="SearchString">
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+                 <th>
+                @Html.DisplayNameFor(model => model.camps[0].FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.camps[0].DateRegistered)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.camps[0].BeltGrade)
+            </th>
+			<th>
+                @Html.DisplayNameFor(model => model.camps[0].ClubLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.camps[0].DepositPutDown)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.camps) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateRegistered)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BeltGrade)
+            </td>
+			<td>
+                @Html.DisplayFor(modelItem => item.ClubLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepositPutDown)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

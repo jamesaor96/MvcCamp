@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{73BAD7D2-46EB-4BF6-B08F-75CA6DEB4128}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CampsController.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Views/Home/Contact.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/About.cshtml" Line="5" Column="2" />
+      <File FileName="Controllers/CampController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/CampsController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MvcCamp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
